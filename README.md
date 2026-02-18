@@ -135,4 +135,4 @@ python main.py
 
 ## 👨‍💻 Author
 
-* Developed by **ANIL kUMAR BALU** ✨
+* Developed by **ANIL KUMAR BALU** ✨
